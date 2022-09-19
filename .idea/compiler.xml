@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="MyHiltCleanArc.app" target="11" />
+      <module name="MyHiltCleanArc.buildSrc" target="11" />
+      <module name="MyHiltCleanArc.buildSrc.main" target="11" />
+      <module name="MyHiltCleanArc.buildSrc.test" target="11" />
+      <module name="MyHiltCleanArc.data" target="11" />
+      <module name="MyHiltCleanArc.presentation" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
