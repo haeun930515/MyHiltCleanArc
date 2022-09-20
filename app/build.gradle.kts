@@ -3,7 +3,6 @@ plugins {
     kotlin("android")
     kotlin("kapt")
     id("dagger.hilt.android.plugin")
-    id("com.google.gms.google-services")
 }
 
 android {
@@ -41,9 +40,9 @@ android {
 
 dependencies {
 
-//    implementation(project(":presentation"))
-//    implementation(project(":data"))
-//    implementation(project(":domain"))
+    implementation(project(":presentation"))
+    implementation(project(":data"))
+    implementation(project(":domain"))
 
     implementation(Dependencies.androidX.appCompat)
 

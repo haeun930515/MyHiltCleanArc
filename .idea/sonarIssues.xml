@@ -8,12 +8,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ExProjects/multi-module-clean-architecture/app/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/hilt/component_sources/debug/com/test/myhiltcleanarc/MainApplication_HiltComponents.java">
           <value>
             <set />
           </value>
@@ -29,6 +39,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/test/myhiltcleanarc/MainApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/test/myhiltcleanarc/module/ApiModule.kt">
           <value>
             <set />
           </value>
@@ -73,7 +88,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/data/build/tmp/kapt3/stubs/debug/com/test/data/module/RepositoryModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/data/proguard-rules.pro">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/src/main/java/com/test/data/cache/AppDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/src/main/java/com/test/data/cache/ItemDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/src/main/java/com/test/data/entity/ItemEntity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/src/main/java/com/test/data/mapper/ItemMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/src/main/java/com/test/data/mapper/Mapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/src/main/java/com/test/data/module/ApiModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/src/main/java/com/test/data/module/RepositoryModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/src/main/java/com/test/data/module/UseCaseModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/src/main/java/com/test/data/network/ktor/ItemService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/data/src/main/java/com/test/data/repository/ItemRepositoryImpl.kt">
           <value>
             <set />
           </value>
@@ -93,6 +163,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/domain/src/main/java/com/test/domain/model/Item.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/domain/src/main/java/com/test/domain/model/status/MyClass.kt">
           <value>
             <set />
@@ -108,7 +183,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/domain/src/main/java/com/test/domain/repository/ItemRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/domain/src/main/java/com/test/domain/usecase/GetGithubReposUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/domain/src/main/java/com/test/domain/usecase/GetItemListUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/domain/src/main/java/com/test/domain/usecase/InsertItemUseCase.kt">
           <value>
             <set />
           </value>
@@ -123,7 +213,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/java/com/test/presentation/adapter/ItemAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/presentation/src/main/java/com/test/presentation/base/BaseActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/java/com/test/presentation/base/BaseFragment.kt">
           <value>
             <set />
           </value>
@@ -138,7 +238,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/java/com/test/presentation/ui/Item/ItemFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/presentation/src/main/java/com/test/presentation/ui/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/java/com/test/presentation/ui/main/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/java/com/test/presentation/viewmodel/ItemViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/java/com/test/presentation/viewmodel/MainViewModel.kt">
           <value>
             <set />
           </value>
@@ -148,7 +268,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/res/layout/fragment_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/res/layout/item_market.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/presentation/src/main/res/menu/bottom_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/res/navigation/nav_graph.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/res/navigation/page_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/res/navigation/page_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/res/navigation/page_my.xml">
           <value>
             <set />
           </value>

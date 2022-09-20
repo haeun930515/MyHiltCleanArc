@@ -4,10 +4,17 @@
     <item
         android:id="@+id/page_market"
         android:enabled="true"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
         android:title="Market"/>
 
     <item
         android:id="@+id/page_main"
         android:enabled="true"
+        android:icon="@drawable/ic_baseline_local_activity_24"
         android:title="Main"/>
+    <item
+        android:id="@+id/page_my"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="my"/>
 </menu>
