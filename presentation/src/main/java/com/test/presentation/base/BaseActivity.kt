@@ -6,17 +6,14 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.databinding.ViewDataBinding
 
-abstract class BaseActivity<T : ViewDataBinding, V : BaseViewModel>(@LayoutRes private val layoutResId: Int)
-    : AppCompatActivity(layoutResId){
-    protected lateinit var binding: T
-        private set
+abstract class BaseActivity<T : ViewDataBinding>(@LayoutRes private val layoutResId: Int)
+    : AppCompatActivity() {
 
-    protected abstract val viewModel: V
+    protected lateinit var binding: T
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, layoutResId)
-
         performDataBinding()
     }
 
@@ -25,7 +22,4 @@ abstract class BaseActivity<T : ViewDataBinding, V : BaseViewModel>(@LayoutRes p
         binding.executePendingBindings()
     }
 
-    protected fun binding(action: T.() -> Unit) {
-        binding.run(action)
-    }
 }

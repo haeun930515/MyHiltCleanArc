@@ -208,6 +208,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/presentation/build/generated/source/kapt/debug/com/test/presentation/DataBinderMapperImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/presentation/src/main/AndroidManifest.xml">
           <value>
             <set />
@@ -264,6 +269,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/presentation/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/res/layout/activity_main2.xml">
           <value>
             <set />
           </value>

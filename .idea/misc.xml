@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/layout/activity_main_application.xml" value="0.28125" />
         <entry key="presentation/src/main/res/drawable/ic_baseline_local_activity_24.xml" value="0.2925" />
         <entry key="presentation/src/main/res/layout/activity_main.xml" value="0.2953125" />
+        <entry key="presentation/src/main/res/layout/activity_main2.xml" value="0.2953125" />
         <entry key="presentation/src/main/res/layout/fragment_item.xml" value="0.2942708333333333" />
         <entry key="presentation/src/main/res/layout/item_market.xml" value="0.2942708333333333" />
         <entry key="presentation/src/main/res/menu/bottom_menu.xml" value="0.2942708333333333" />
