@@ -9,8 +9,4 @@ rootProject.name = "MyHiltCleanArc"
 include ':app'
 include ':data'
 include ':domain'
-include ':app'
-include ':domain'
-include ':data'
-include ':presentation'
 include ':presentation'
