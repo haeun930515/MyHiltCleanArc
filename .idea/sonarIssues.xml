@@ -48,6 +48,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
@@ -314,6 +319,66 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/data/api/MarketPlaceApis.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/data/model/member/MemberInfoModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/data/model/splash/AppVersionModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/data/repository/AccountRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/login/findid/FindIdActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/login/join/JoinActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/login/password/FindPasswordActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/member/modifi/MemberModifiActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/minishop/MiniShopDetailActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/splash/SplashActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/viewmodel/MemberInfoViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/res/layout/activity_mini_shop_detail.xml">
           <value>
             <set />
           </value>
