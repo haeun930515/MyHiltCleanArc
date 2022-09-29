@@ -7,6 +7,8 @@
     <include app:graph="@navigation/page_item"/>
     <include app:graph="@navigation/page_my"/>
     <include app:graph="@navigation/page_main"/>
+    <include app:graph="@navigation/page_question"/>
+
 
 
 </navigation>

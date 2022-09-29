@@ -13,6 +13,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ExProjects/multi-module-clean-architecture/presentation/src/main/java/com/example/presentation/ui/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
@@ -318,12 +323,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/presentation/src/main/res/navigation/page_question.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/question/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/question/src/main/java/com/test/question/QuestionFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/question/src/main/res/layout/fragment_question.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/question/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/question/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/settings.gradle">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/base/BaseFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/data/api/MarketPlaceApis.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/data/api/ProductApis.kt">
           <value>
             <set />
           </value>
@@ -339,6 +384,26 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/data/repository/AccountRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/data/repository/PurchaseRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/detail/GroupdealDetailActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/detail/ProductDetailActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/detail/ProductViewModel.kt">
           <value>
             <set />
           </value>
@@ -379,6 +444,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/res/layout/activity_mini_shop_detail.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/res/values/strings.xml">
           <value>
             <set />
           </value>

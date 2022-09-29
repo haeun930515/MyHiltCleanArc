@@ -8,5 +8,6 @@
         android:id="@+id/marketFragment"
         android:name="com.test.presentation.ui.Item.ItemFragment"
         android:label="MarketFragment"/>
-
+    <deepLink
+        app:uri="android-app://com.test.ItemFragment"/>
 </navigation>

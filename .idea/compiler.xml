@@ -8,6 +8,7 @@
       <module name="MyHiltCleanArc.buildSrc.test" target="11" />
       <module name="MyHiltCleanArc.data" target="11" />
       <module name="MyHiltCleanArc.presentation" target="11" />
+      <module name="MyHiltCleanArc.question" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,7 +2,7 @@ plugins {
     id("com.android.library")
     kotlin("android")
     kotlin("kapt")
-    id("dagger.hilt.android.plugin")
+//    id("dagger.hilt.android.plugin")
 }
 
 android {
@@ -38,24 +38,25 @@ android {
 dependencies {
 
     implementation(project(":domain"))
-    implementation(project(":question"))
 
-    implementation(Dependencies.androidX.core)
-    implementation(Dependencies.androidX.appCompat)
+    with(Dependencies.androidX) {
+        implementation(core)
+        implementation(appCompat)
+        implementation(lifecycle.runtime)
+        implementation(lifecycle.viewModel)
+        implementation(lifecycle.liveData)
+        implementation(navigation.fragment)
+    }
+
     implementation(Dependencies.material)
-    implementation(Dependencies.androidX.constraintLayout)
 
-    implementation(Dependencies.androidX.lifecycle.runtime)
-    implementation(Dependencies.androidX.lifecycle.viewModel)
-    implementation(Dependencies.androidX.lifecycle.liveData)
+    with(Dependencies.hilt){
+        implementation(android)
+        kapt(compiler)
+    }
 
-
-
-    implementation(Dependencies.hilt.android)
-    kapt(Dependencies.hilt.compiler)
 
     implementation(Dependencies.androidX.navigation.fragment)
     implementation(Dependencies.androidX.navigation.ui)
-
 
 }

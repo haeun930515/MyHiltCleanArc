@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/page_question"
+    app:startDestination="@id/myPageQuestion">
+
+    <fragment
+        android:id="@+id/myPageQuestion"
+        android:name="com.test.question.QuestionFragment"
+        android:label="MyQuestionFragment">
+
+        <deepLink
+            app:uri="android-app://com.test.presentationFragment"/>
+    </fragment>
+
+</navigation>
