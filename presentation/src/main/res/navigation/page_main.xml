@@ -8,4 +8,6 @@
         android:id="@+id/galleryFragment"
         android:name="com.test.presentation.ui.main.EmptyFragment"
         android:label="GalleryFragment" />
+    <deepLink
+        app:uri="myapp://main"/>
 </navigation>

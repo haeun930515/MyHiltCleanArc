@@ -19,12 +19,18 @@ class MainActivity : BaseActivity<ActivityMainBinding>(R.layout.activity_main) {
         binding.apply {
             val navHostFragment = supportFragmentManager.findFragmentById(R.id.main_frame_layout) as NavHostFragment
             bottomNavigationView.setupWithNavController(navHostFragment.navController)
-            bottomNavigationView.setOnItemReselectedListener {  }
-
-
-
         }
     }
 }
+
+object InternalDeepLink {
+    const val DOMAIN = "myapp://"
+
+    const val ITEM = "${DOMAIN}item"
+    const val MAIN = "${DOMAIN}main"
+    const val MY = "${DOMAIN}my"
+    const val QUES = "${DOMAIN}question"
+}
+
 
 class EmptyFragment : Fragment()

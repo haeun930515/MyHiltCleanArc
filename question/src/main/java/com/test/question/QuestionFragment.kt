@@ -34,7 +34,9 @@ class QuestionFragment : Fragment(){
                 .fromUri("android-app://com.test.ItemFragment".toUri())
                 .build()
             findNavController().navigate(request)
+//            findNavController().popBackStack()
         }
+
     }
 
 

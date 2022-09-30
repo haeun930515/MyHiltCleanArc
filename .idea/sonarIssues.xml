@@ -358,6 +358,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../youtube_kotlin_demo_app/app/src/main/java/com/junga/lovetest/fragment/ResultFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/base/BaseFragment.kt">
           <value>
             <set />
@@ -423,6 +428,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/main/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/member/modifi/MemberModifiActivity.kt">
           <value>
             <set />
@@ -434,6 +444,16 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/activity/splash/SplashActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/fragment/catagory/CategoryFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/salegguk/android_salegguk/app/src/main/java/com/bh/salegguk/ui/fragment/catagory/CategoryFragmentViewModel.kt">
           <value>
             <set />
           </value>
