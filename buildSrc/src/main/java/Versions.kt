@@ -9,7 +9,7 @@ object Versions {
     const val retrofit = "2.9.0"
     const val room = "2.4.2"
     const val glide = "4.12.0"
-    const val navigation = "2.4.0-alpha01"
+    const val navigation = "2.4.0-beta01"
     const val lifecycle = "2.3.1"
     const val lifecycleRuntime = "2.4.0-alpha02"
     const val paging = "3.1.1"

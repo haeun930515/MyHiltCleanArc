@@ -9,6 +9,7 @@
         android:name="com.test.question.QuestionFragment"
         android:label="MyQuestionFragment">
 
+
         <deepLink
             app:uri="myapp://question"/>
     </fragment>
